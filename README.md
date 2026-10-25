@@ -2,7 +2,7 @@
 
 Editable React/Vite/Three.js source for the UTAR FCI exhibition.
 
-Website: https://jonah0412.github.io/artstronomy-2026/
+Website: https://artstronomy2026.github.io/artstronomy-2026/
 
 ## Development
 
